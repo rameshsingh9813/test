@@ -1,0 +1,19 @@
+h1{
+    text-align:center;
+    border:5px solid ;
+    background-color:rgb(200 200 200);
+}
+#firstp{
+    border-left:solid;
+    border-width:20px;
+
+}
+#secondp{
+    border:5px dotted ; 
+    outline:5px solid red;
+    padding:10px;
+    margin:50px;
+}
+html{
+    background-color:green;
+}
